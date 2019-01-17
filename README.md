@@ -1,4 +1,4 @@
-### [Demo](sortable-table.surge.sh)
+### [Demo](http://sortable-table.surge.sh/)
 
 ### Установка
   Склонируйте или загрузите репозиторий
